@@ -104,7 +104,6 @@ export default function GenreResults({
                   </p>
                 </div>
               )}
-
               <ul className="flex flex-wrap gap-3">
                 {result.genres.map((genre, i) => (
                   <li
