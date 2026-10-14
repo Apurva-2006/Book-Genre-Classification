@@ -1,0 +1,25 @@
+﻿# Environment & Virtual Environments
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Machine Learning Artifacts
+*.joblib
+*.pkl
+
+# Dependencies & Build Files
+node_modules/
+.next/
+out/
+build/
+*.tsbuildinfo
+
+# Local Environment Variables
+.env*.local
+
+# OS & Logs
+.DS_Store
+Thumbs.db
+*.log
